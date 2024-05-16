@@ -6,6 +6,8 @@ Start here 👉 [Ruby Jupyter Notebook](README.ipynb)
 
 I will be writing cool and fun programs every day in Ruby using Jupyter Notebook. I'll also write longer articles on my [blog](https://ashgaikwad.substack.com/) explaining details of how some of these things work. 
 
+![ruby in jupyter image](assets/sample-ruby-in-jupyter.png)
+
 ### What if you have questions?
 If you have any questions, you can reach out to me on GitHub by creating an issue OR on my [blog](https://ashgaikwad.substack.com/) by commenting.
 
